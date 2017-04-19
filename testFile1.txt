@@ -1,0 +1,7 @@
+Hello,
+
+This is some-feature1.
+
+testFile1 created in this feature.
+
+Once the feature is completetd, I will merge this feature with develop branch.
